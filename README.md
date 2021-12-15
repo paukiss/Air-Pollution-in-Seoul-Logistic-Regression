@@ -7,10 +7,9 @@ Es de conocimiento común que la contaminación del aire puede causar varios pro
 # **Objetivo Investigacion del dataset**
 El proposito de trabajo de este dataset es para lograr dar una prediccion de como sera la contanimacion dentro una ciudad, en este caso el conjunto de datos nos proporciona la informacion de medicion de la contaminacion del aire en Seul, Corea del Sur.
 
-Estos datos proporcionan valores promedio para seis contaminantes $(SO_2, NO_2, CO, O3, PM_{10}, PM_{2.5}).$
+Estos datos proporcionan valores promedio para seis contaminantes $(SO_2, NO_2, CO, O3, PM_{10}, PM_{2.5})$
 - Los datos se midieron cada hora entre 2017 y 2019.
 - Se midieron los datos de 25 distritos de Seúl.
-
 
 - **Measurement** date = Hora y fecha de cuando se midio
 - **Station code** = Codigo de Estacion
@@ -51,19 +50,8 @@ df.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
