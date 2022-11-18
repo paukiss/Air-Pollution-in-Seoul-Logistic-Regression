@@ -1,5 +1,5 @@
 # **Air Pollution in Seoul - Logistic Regression**
-# Link colab: https://colab.research.google.com/drive/1SBMv8HSs0J2HFk16lU1pFQAfd5MpJSKM?usp=sharing
+### [Code in colab](https://colab.research.google.com/drive/1SBMv8HSs0J2HFk16lU1pFQAfd5MpJSKM?usp=sharing)
 ---
 [<img src="https://i.guim.co.uk/img/media/1d1abc561aad84be09d26b81d6959cb34c9be236/0_10_5000_3003/master/5000.jpg?width=1200&quality=85&auto=format&fit=max&s=cc0522633035a7c9ffd7081935b3a462" width="500"/>](image.png)
 
